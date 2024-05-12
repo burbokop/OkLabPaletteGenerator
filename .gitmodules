@@ -1,0 +1,3 @@
+[submodule "3rdparty/farver/farver"]
+	path = 3rdparty/farver/farver
+	url = https://github.com/thomasp85/farver.git
